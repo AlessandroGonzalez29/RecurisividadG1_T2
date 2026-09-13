@@ -1,0 +1,13 @@
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\bin\Debug\net10.0\Recursividad.Logica.deps.json
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\bin\Debug\net10.0\Recursividad.Logica.dll
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\bin\Debug\net10.0\Recursividad.Logica.pdb
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.AssemblyInfoInputs.cache
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.AssemblyInfo.cs
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.csproj.CoreCompileInputs.cache
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.sourcelink.json
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.dll
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\refint\Recursividad.Logica.dll
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursividad.Logica.pdb
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\ref\Recursividad.Logica.dll
+C:\Proyectos\EDAT\RecursividadG1_T2\Recursividad.Logica\obj\Debug\net10.0\Recursiv.75A6CBBA.Up2Date
